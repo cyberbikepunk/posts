@@ -10,7 +10,7 @@ Create a new Conda environment:
 
 ```conda create --name foo pandas bokeh```
 
-This environment lives under `conda_root/envs/foo`. Your python interpreter is `conda_root/envs/foo/bin/pythonX.X` and your all your site-packages are in `conda_root/envs/foo/lib/pythonX.X/site-packages`. This is same directory structure as in a pip virtual environement. __PyCharm__ sees no difference.
+This environment lives under `conda_root/envs/foo`. Your python interpreter is `conda_root/envs/foo/bin/pythonX.X` and your all your site-packages are in `conda_root/envs/foo/lib/pythonX.X/site-packages`. This is same directory structure as in a pip virtual environement. PyCharm sees no difference.
 
 Now to activate your new environment from PyCharm go to *file > settings > project > interpreter*, select *Add local* in the project interpreter field (the little gear wheel) and hunt down your python interpreter. Congratulations! You now have a Conda environment with pandas and bokeh!
 
