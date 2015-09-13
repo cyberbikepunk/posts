@@ -1,11 +1,13 @@
-#How to make Conda work with PyCharm
+# How to make Conda work with PyCharm #
 
 My favorite IDE is [PyCharm](https://www.jetbrains.com/pycharm/). And recently, my favorite package manager has become [Conda](https://store.continuum.io/cshop/anaconda/). So I was *very* pleased to discover that __PyCharm__, __Conda__ and  and __pip__ can be happily coexist together in blissful harmony. Here's the how and the why.
 
-##The short answer
+## The short answer ##
+
 Just manage Conda __from the command line__. PyCharm will automatically notice changes once they happen, just like it does with __pip__.
 
-##The long answer
+## The long answer ## 
+
 Create a new Conda environment:
 
 ```conda create --name foo pandas bokeh```
@@ -26,5 +28,6 @@ And __the reverse is also true__, i.e. when you pip install another package in P
 
 The list now includes requests and Conda has correctly detected (3rd column) that it was installed with pip.
 
-## Conclusion
-This is definitely good news for PyCharm fans like myself who were sometimes having pip installation problems when packages were not pure python. Now you can have the best of both worlds!
+## Conclusion ##
+
+This is definitely good news for PyCharm fans like myself who were sometimes having trouble with pip installations. Which happens quite often alas. A typical case is when a package has lots of non-python dependencies. Conda avoids you these head-aches by shipping all dependencie pre-compiled. And now you can have the best of both worlds. Cool.

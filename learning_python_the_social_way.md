@@ -1,5 +1,4 @@
-Learning python the social way
-==============================
+# Learning python the social way
 
 Hello folks, I'm writing my first blog post ever, so bare with me. This is supposed to be a tech blog but this piece won't show any code snippet. Rather I'm going to tell you a story. It's the story about how I learned programming. If you are a complete novice in programming or wondering if you can do it at all, I hope you find it inspiring. In fact it
 

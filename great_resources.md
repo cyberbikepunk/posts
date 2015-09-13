@@ -1,13 +1,13 @@
 # Coding ressources #
 
-I've been trying to compile a curated list of resources I wish I had stumbled upon earlier. They cover __intermediate python__, __linux__, __git__, __dataviz__ and __data science__. This is basically my personal paste bin but feel free to contribute by sending a [pull request](https://github.com/cyberbikepunk/posts).
+I've been trying to compile a curated list of resources I wish I had stumbled upon earlier. They cover __python__, __linux__, __git__, __dataviz__ and __data science__. This is basically my personal paste bin but feel free to contribute by sending a [pull request](https://github.com/cyberbikepunk/posts).
 
 ## Linux ##
 
 * [Everything you need to ḱnow about the ssh command](http://support.suso.com/supki/SSH_Tutorial_for_Linux)
 * [Deploying a Flask app with ngnix and gunicorn](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/#example-video)
 
-## Intermediate python ##
+## Python ##
 
 * [Real Python: the blog has quality posts](https://realpython.com/blog/)
 * [The history of Python](http://python-history.blogspot.co.uk)
@@ -47,6 +47,6 @@ I've been trying to compile a curated list of resources I wish I had stumbled up
 * [Influence Mapping Toolbox](http://influencemapping.org/influence-mapping-toolbox/)
 * [Savvas Tjorjoglou's blog has awesome tutorials on NBA dataviz](http://savvastjortjoglou.com/) 
 
-## General geeky stuff ##
+## Random ##
 
 * [Donne Martin's blog has an interesting tech book list](http://donnemartin.com/)
