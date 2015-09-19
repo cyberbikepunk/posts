@@ -22,13 +22,17 @@ I've been trying to compile a curated list of resources I wish I had stumbled up
 
 ## Webdev ##
 
+* [12min video: how to develop a simple Flask with PyCharm](https://www.youtube.com/watch?v=zBUi3LkjNl0&list=PLQ176FUIyIUY5Ii58pzoZhS_3qIBL80nz&index=4)
 * [Intermediate Flask tips](https://exploreflask.com/)
 * [Django/SQLAlchemy Comparison](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
+* [Matt Wright wrote good articles about Flask/Deployment](http://mattupstate.com/)
+* [Armin Ronacher, who wrote Flask, also wrote a good introduction about it](https://github.com/mitsuhiko/flask/wiki/Large-app-how-to)
 
 ## Git ##
 
 * [GitReady](http://gitready.com)
 * [How to install python packages with conda](http://continuum.io/blog/conda)
+* [Visual and interactive git tutorial](http://pcottle.github.io/learnGitBranching/)
 
 ## Data science ##
 
