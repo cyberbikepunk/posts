@@ -1,6 +1,6 @@
 # How to make Conda work with PyCharm
 
-My favorite IDE is [PyCharm](https://www.jetbrains.com/pycharm/). And recently, my favorite package manager has become [Conda](https://store.continuum.io/cshop/anaconda/). So I was *very* pleased to discover that __PyCharm__, __Conda__ and  and __pip__ can be happily coexist together in blissful harmony. Here's the how and the why.
+My favorite IDE is [PyCharm][PyCharm]. And recently, my favorite package manager has become [Conda][Conda] So I was pleased to discover that __PyCharm__, __Conda__ *and* __pip__ can be happily coexist together in blissful harmony. Here's how and why.
 
 ## The short answer
 
@@ -10,24 +10,41 @@ Just manage Conda __from the command line__. PyCharm will automatically notice c
 
 Create a new Conda environment:
 
-```conda create --name foo pandas bokeh```
+	conda create --name foo pandas bokeh
 
-This environment lives under `conda_root/envs/foo`. Your python interpreter is `conda_root/envs/foo/bin/pythonX.X` and your all your site-packages are in `conda_root/envs/foo/lib/pythonX.X/site-packages`. This is same directory structure as in a pip virtual environement. PyCharm sees no difference.
+This environment lives under 
 
-Now to activate your new environment from PyCharm go to *file > settings > project > interpreter*, select *Add local* in the project interpreter field (the little gear wheel) and hunt down your python interpreter. Congratulations! You now have a Conda environment with pandas and bokeh!
+	conda_root/envs/foo
 
-Now install more packages:
+Your python interpreter is 
 
-```conda install scikit-learn```
+	conda_root/envs/foo/bin/pythonX.X
+
+And your all your site-packages are in 
+
+	conda_root/envs/foo/lib/pythonX.X/site-packages
+
+This is same directory structure as in a pip virtual environment. PyCharm sees no difference. Now to activate your new environment from PyCharm go to *file > settings > project > interpreter*, select *Add local* in the project interpreter field (the little gear wheel) and hunt down your python interpreter. Congratulations! You now have a Conda environment with pandas and bokeh!
+
+Now install more packages, for example:
+
+	conda install scikit-learn
 
 OK... go back to your interpreter in settings. Magically, PyCharm now sees scikit-learn!
 
-And __the reverse is also true__, i.e. when you pip install another package in PyCharm, Conda will automatically notice. Say you've installed requests. Now list the Conda packages in your current environment:
+And __the reverse is also true__, i.e. when you pip install another package in PyCharm, Conda will automatically notice. If you do 
 
-```conda list```
+	pip install requests`
 
-The list now includes requests and Conda has correctly detected (3rd column) that it was installed with pip.
+and then list the Conda packages in your current environment with 
+
+	conda list
+
+you will see that Conda now includes requests. Indeed, the third column indicates the package was installed with pip.
 
 ## Conclusion
 
-This is definitely good news for PyCharm fans like myself who were sometimes having trouble with pip installations. Which happens quite often alas. A typical case is when a package has lots of non-python dependencies. Conda spares you these head-aches by shipping all dependencies pre-compiled. And now you can have the best of both worlds. Cool.
+This is good news for PyCharm fans like myself who are sometimes having trouble with pip installations. Alas, this tends to happen when a package has lots of non-python dependencies. Conda spares you these head-aches by shipping all dependencies pre-compiled. Now you can have the best of all worlds... Cool.
+
+[PyCharm]: https://www.jetbrains.com/pycharm/
+[Conda]: https://store.continuum.io/cshop/anaconda/

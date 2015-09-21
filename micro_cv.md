@@ -2,7 +2,7 @@
 
 ## Personal info
 * Born in 1975 in Paris, currently in Berlin
-* English (native), French (native), German (pretty good)
+* English (native), French (native), German (fluent)
 
 ## Education
 * MSci. in physics, Imperial College London
@@ -15,6 +15,6 @@
 * Backend web development
 
 ## Project examples
-* Information retrieval & data analysis of atmospheric remote sounding data 
 * Geospatial visualization of bike messenger activity in Berlin 
 * Business intelligence dashboard for a bicycle wheels manufacturer
+* Information retrieval & data analysis of atmospheric remote sounding data 
