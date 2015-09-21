@@ -1,6 +1,12 @@
 # Learning python the social way
 
-Hello folks, I'm writing my first blog post ever, so bare with me. This is supposed to be a tech blog but this piece won't show any code snippet. Rather I'm going to tell you a story. It's the story about how I learned programming. If you are a complete novice in programming or wondering if you can do it at all, I hope you find it inspiring. In fact it
+I'm a bike messenger. But by life has completely changed in the space of nine months. I wrote my first line of python on the december 30 2014 and never looked back. This essay is about the journey from total beginner to wannabe jumior programmer.
+
+## Community
+
+Don't get me wrong. I love my job. Bike messenger is the best job I've had so far. It keeps me real fit. It's fast, dangerous and funky. But actually, what's best about it is its community. Bike messengers are a family. Everyone looks out for one else. I like to compare us to a guild: wherever you 
+go, the local community will give you food and shelter. No questions asked. We meet regularly for local, national, continental and even world championships. These competitions are just an excuse to get together and throw weeklong parties. So, if this is so much fun, why am I trying to become a computer geek?
+Well, cause I found a sense of community!
 
 So why is this called learning 'the social way'? Well, when people think about programmers, they usually imagine a bunch a reclusive geeks stuck in front of their computer. On top of that code has this frightening aspect to it: it looks totally uncrompehensible and can make you worry you will never manage to be a programmer.
 
@@ -8,8 +14,7 @@ Well, if I manage to do it, you can too. I'm no brighter than anyone around me. 
 
 And this is the way I naturally learnt programming. Now follow me as I take you with me through my personnal journey into the world of programming.
 
-Step 1: choosing your programming language
-------------------------------------------
+## Step 1: choosing your programming language
 
 I had really no clue. In fact, having previously tinkered with WordPress before, I thought __php__ was the only game in town when it came to make websites. In fact, I thought that developers *only* made websites! Well, that's definitely not true. So the first advice I would give to beginners is expand your mind and find out what's out there! 
 
