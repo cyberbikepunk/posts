@@ -1,7 +1,9 @@
-#Hire me!
+#Hello!
 
-A while back I was a physicist. Then I ran an start-up. Then I became a bike messenger. Now I wanna be a full time pythonista. My interests are data mining, analysis and visualization. I'm currently looking for cool datasets to play with or a friendly workplace to settle in so I can learn more. Anywhere.
+I used to be a physicist. Now I'm a python developer. I mostly do back-end development and data science (data mining, analysis and visualization). I'm also very interested in machine learning and natural language processing. I love to code.
 
-I love to code. Get in touch.
+I'm a part of [cogeeks][cogeeks], a conglomerate of freelance developers in Berlin. We're always looking for cool projects to work on, individually or collectively. Get in touch!
 
-Lo&c
+Lo&#239;c
+
+[cogeeks]: http://cogeeks.com

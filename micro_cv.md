@@ -1,4 +1,6 @@
-# Micro CV
+# Micro-CV
+
+If you want to see the long version, please send me an email. I'm a part of [cogeeks][cogeeks], a conglomerate of freelance developers in Berlin. There are more micro-CVs on the website. 
 
 ## Personal info
 * Born in 1975 in Paris, currently in Berlin
@@ -12,9 +14,14 @@
 * Python... what else?
 * Data mining, analysis & visualization
 * Machine learning, natural language processing
-* Backend web development
+* Back-end web development
 
-## Project examples
-* Geospatial visualization of bike messenger activity in Berlin 
-* Business intelligence dashboard for a bicycle wheels manufacturer
-* Information retrieval & data analysis of atmospheric remote sounding data 
+## Latest projects
+* [M5][m5]: mining and mapping bike messenger data
+* [Taler][taler]: Taxable Anonymous Libre Electronic Reserve
+* [Aligator][aligator]: a blogging framework for data-scientists 
+
+[aligator]: https://github.com/cyberbikepunk/aligator
+[m5]: https://github.com/cyberbikepunk/m5
+[taler]: http://taler.net
+[cogeeks]: http://cogeeks.com

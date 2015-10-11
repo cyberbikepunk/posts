@@ -22,6 +22,7 @@ This is basically my personal paste-bin but feel free to contribute by sending a
 
 ## Backend ##
 
+* [Fullstack Python: a complete guide to build and deploy apps](http://www.fullstackpython.com/): by the guy who wrote peewee, a nice little ORM.
 * [12min video: how to develop a simple Flask with PyCharm](https://www.youtube.com/watch?v=zBUi3LkjNl0&list=PLQ176FUIyIUY5Ii58pzoZhS_3qIBL80nz&index=4): the guy knows his keyboard shortcuts!
 * [Intermediate Flask tips](https://exploreflask.com/): an invaluable bird's eye perspective on Flask.
 * [Django/SQLAlchemy Comparison](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
