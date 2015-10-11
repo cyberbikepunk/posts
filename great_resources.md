@@ -1,6 +1,6 @@
 # Coding ressources #
 
-This is basically my personal paste-bin but feel free to contribute by sending a [pull request][repo].
+This is basically my personal paste-bin but feel free to contribute by sending a [pull request](https://github.com/cyberbikepunk/posts).
 
 ## Linux ##
 
@@ -59,5 +59,3 @@ This is basically my personal paste-bin but feel free to contribute by sending a
 ## Wesites ##
 
 * [CKAN open source data portal](http://ckan.org/)
-
-[repo]: https://github.com/cyberbikepunk/posts 
