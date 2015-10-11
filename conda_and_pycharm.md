@@ -1,6 +1,6 @@
 # How to make Conda work with PyCharm
 
-My favorite IDE is [PyCharm][https://www.jetbrains.com/pycharm/]. And recently, my favorite package manager has become [Conda][https://store.continuum.io/cshop/anaconda/] So I was pleased to discover that __PyCharm__, __Conda__ *and* __pip__ can be happily coexist together in blissful harmony. Here's how and why.
+My favorite IDE is [PyCharm](https://www.jetbrains.com/pycharm/). And recently, my favorite package manager has become [Conda](https://store.continuum.io/cshop/anaconda/) So I was pleased to discover that __PyCharm__, __Conda__ *and* __pip__ can be happily coexist together in blissful harmony. Here's how and why.
 
 ## The short answer
 

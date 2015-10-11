@@ -1,6 +1,6 @@
 # Micro-CV
 
-If you want to see the long version, please send me an email. I'm a part of [cogeeks][http://cogeeks.com], a conglomerate of freelance developers in Berlin. There are more micro-CVs on the website. 
+If you want to see the long version, please send me an email. I'm a part of [cogeeks](http://cogeeks.com), a conglomerate of freelance developers in Berlin. There are more micro-CVs on the website. 
 
 ## Personal info
 * Born in 1975 in Paris, currently in Berlin
