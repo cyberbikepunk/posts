@@ -1,4 +1,4 @@
-# Coding ressources #
+# Coding resources #
 
 This is basically my personal paste-bin but feel free to contribute by sending a [pull request](https://github.com/cyberbikepunk/posts).
 
