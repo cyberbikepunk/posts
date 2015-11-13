@@ -1,15 +1,15 @@
 # Coding resources #
 
-This is basically my personal paste-bin but feel free to contribute by sending a [pull request](https://github.com/cyberbikepunk/posts).
+This is basically my personal paste-bin but feel free to contribute by sending a [pull-request](https://github.com/cyberbikepunk/posts).
 
 ## Linux ##
 
-* [Everything you need to ḱnow about the ssh command](http://support.suso.com/supki/SSH_Tutorial_for_Linux)
-* [Deploying a Flask app with ngnix and gunicorn](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/#example-video)
+* Everything you need to ḱnow about the [ssh command](http://support.suso.com/supki/SSH_Tutorial_for_Linux)
+* [Deploying a Flask app](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment/#example-video) with ngnix and gunicorn
 
 ## Python ##
 
-* [Real Python: the blog has quality posts](https://realpython.com/blog/)
+* [Real Python](https://realpython.com/blog/) has quality posts
 * [Guido once blogged about "the history of Python"](http://python-history.blogspot.co.uk)
 * [Raymond Hettinger's talk on beautiful idiomatic python(video)](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Learning to thread in Python](http://pymotw.com/2/threading/)

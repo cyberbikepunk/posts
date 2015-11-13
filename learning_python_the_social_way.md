@@ -2,7 +2,7 @@
 
 This post is about the journey that lead me from bike punks to computer geeks and how I fast-tracked my apprenticeship with the help of the community. It's my way of saying thank you. 
 
-Up to now I was a bike messenger. Don't get me wrong. It's a great job. What  I especially like is the sense of belonging it procures. Bike messengers are tight community. They race one another at local [alleycats][alleycats], organize [world championships][cmwc] and generally find great excuses to party together. 
+My latest job was bike messenger. Don't get me wrong. It's a great job. What  I especially like is the sense of belonging it procures. Bike messengers are tight community. They race one another at local [alleycats][alleycats], organize [world championships][cmwc] and generally find great excuses to party together. 
 
 So, before teaching myself *hello world*, I wanted to meet programmers. In retrospect, it was a wise decision.
 
@@ -17,7 +17,7 @@ It was time to go to my first local python meeting. The atmosphere was shy and g
 That struck a chord. Since I had studied physics at university, it seemed fitting to teach myself a language with a penchant for science. So I did a bit more research and, after a bit of hesitation, made up my mind: I was going learn python. Consequently *hello world* would look roughly like this:
 
 	class User(object):
-		def __init__(name)
+		def __init__(self, name):
 			self.name = name
 
 		def greet(self):
