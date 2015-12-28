@@ -1,9 +1,5 @@
 #Hello!
 
-I used to be a physicist. Then I became a bike messenger. Now I'm a python developer. I mostly do back-end development and data science (mining, analysis and visualization). I'm very interested in machine learning and natural language processing. I love to code.
-
-I'm a member of [cogeeks][cogeeks], a cooperative of freelance developers in Berlin. We're always looking for cool projects to work on, individually or collectively. Get in touch!
+I currently work at (Valk Fleet)[http://valkfleet.com] as a Data Engineer. I do mostly data science (ETL, data analysis and visualization) and back-end development (Google App Engine). In my spare time, I teach myself machine learning and natural language processing. My language of choice is python.
 
 Lo&#239;c
-
-[cogeeks]: http://cogeeks.com
