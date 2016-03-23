@@ -1,5 +1,5 @@
 #Hello!
 
-I currently work at [Valk Fleet](http://valkfleet.com) as a Data Engineer. I do mostly data science (ETL, data analysis and visualization) and back-end development (Google App Engine). In my spare time, I teach myself machine learning and natural language processing. My language of choice is python.
+Until last week, I had a great job at [Valk Fleet](http://valkfleet.com) as a Data Engineer. Unfortunately I got fired. Wait... I wasn't the only one. They fired everybody and closed shop. Nothing really surprising in the world of start-ups. The bottom line is: I'm currently open for __cool freelance projects__. You can find my resum&#235; [here](http://registry.jsonresume.org/cyberbikepunk). Get in touch! I love to code.
 
 Lo&#239;c
